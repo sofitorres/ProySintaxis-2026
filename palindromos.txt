@@ -1,0 +1,42 @@
+tingui 'DetectorDePalindromos';
+
+var
+  texto : string
+  charIzq : string
+  charDer : string
+  longitud : real
+  izq : real
+  der : real
+  esPalindromo : real
+
+{
+  read('Ingrese una palabra para verificar: ', texto);
+
+  longitud <- largo(texto);
+  izq <- 1;
+  der <- longitud;
+  esPalindromo <- 1;
+
+  While izq < der Do
+  {
+    charIzq <- subcad(texto, izq, 1);
+    charDer <- subcad(texto, der, 1);
+
+    if charIzq <> charDer then
+    {
+      esPalindromo <- 0;
+    };
+
+    izq <- izq + 1;
+    der <- der - 1;
+  };
+
+  if esPalindromo = 1 then
+  {
+    write('Es palindromo');
+  }
+  else
+  {
+    write('No es palindromo');
+  };
+}.

@@ -1,0 +1,38 @@
+tingui 'contadorLetras';
+
+var
+cont : real 
+car : string
+palabra : string 
+i : real 
+l : real
+carSig : string
+ 
+{ read ('Ingrese palabra a verificar:  ', palabra);
+ l <- largo(palabra);
+ cont <- 1;
+ i <- 1;
+While l > i  Do
+{
+
+ car <- subcad(palabra, i, 1);
+ carSig <- subcad(palabra,i+1, 1);
+  if car = carSig then
+   {    While car = carSig Do
+	{cont <- cont + 1;
+	i <- i+1;
+	car <- subcad(palabra, i, 1);
+	carSig <- subcad(palabra,i+1,1); };
+        
+
+	}
+
+   else 
+   { i <- i+1; 
+    write (car,'  ', cont); 
+    cont <- 1;
+    };
+
+};
+write (car,'  ', cont); 
+}.

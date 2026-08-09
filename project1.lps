@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="67"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="analizadorlexico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="analizadorLexico"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="289"/>
+        <CursorPos X="91" Y="322"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="analizadorsintactico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="analizadorSintactico"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="72"/>
+        <CursorPos X="55" Y="79"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tipos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tipos"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="3" Y="50"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unittas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitTAS"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="47"/>
+        <CursorPos X="53" Y="60"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejopilas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ManejoPilas"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="16" Y="2"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejoestado.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ManejoEstado"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="33"/>
+        <CursorPos X="37" Y="67"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="evaluador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Evaluador"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="482"/>
+        <CursorPos X="106" Y="514"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejoarbol.pas"/>
+        <UnitName Value="manejoArbol"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="39" Y="87"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejolistas.pas"/>
+        <UnitName Value="ManejoListas"/>
+        <EditorIndex Value="8"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="8" Column="109"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="87" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="108" Column="16" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="7" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="86" Column="34" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="35" Column="29" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="68" Column="90" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="3" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="10" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="121" Column="37" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="109" Column="87" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="6" Column="90"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorlexico.pas"/>
+        <Caret Line="345" Column="5" TopLine="312"/>
+      </Position>
+      <Position>
+        <Filename Value="unittas.pas"/>
+        <Caret Line="229" Column="5" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="unittas.pas"/>
+        <Caret Line="219" Column="69" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="unittas.pas"/>
+        <Caret Line="229" Column="22" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="10" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorsintactico.pas"/>
+        <Caret Line="192" Column="15" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="manejoestado.pas"/>
+        <Caret Line="9" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorsintactico.pas"/>
+        <Caret Line="15" Column="84"/>
+      </Position>
+      <Position>
+        <Filename Value="analizadorsintactico.pas"/>
+        <Caret Line="109" Column="5" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="53" Column="40" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="80" Column="5" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="evaluador.pas"/>
+        <Caret Line="408" Column="148" TopLine="408"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="24" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="48" Column="9" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos.pas"/>
+        <Caret Line="50" Column="3" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="7" Column="75"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="contadorLetras.txt"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="3">
+        <Item1 Value="contadorLetras.txt"/>
+        <Item2 Value="caidaLibre.txt"/>
+        <Item3 Value="palindromos.txt"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

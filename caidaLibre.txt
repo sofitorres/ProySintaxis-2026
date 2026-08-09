@@ -1,0 +1,17 @@
+tingui 'CalculoCaidaLibre';
+
+var
+  distancia : real
+  gravedad : real
+  tiempo : real
+
+{
+  gravedad <- 9.8;
+
+  read('Ingrese el tiempo de caida (en segundos): ', tiempo);
+
+  distancia <- 0.5 * gravedad * (tiempo ^ 2);
+  
+  write('La distancia recorrida es (en metros): ');
+  write(distancia);
+}.

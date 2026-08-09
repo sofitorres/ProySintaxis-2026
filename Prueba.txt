@@ -1,0 +1,5 @@
+tingui 'Prueba';
+var 
+  x:real
+{x<-10;            
+ write(x);}.             
